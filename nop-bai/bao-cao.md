@@ -6,7 +6,7 @@
 | MSSV | 2A202602400 |
 | Lớp / Khóa | K4 |
 | Repo GitHub | https://github.com/htai2329102003-web/K4-L3-DAY21-HoangVanTai-2A202602400-CI-CD-for-AI-Systems |
-| Ngày nộp | 08/10/2026 |
+| Ngày nộp | 07/10/2026 |
 
 ## 1. Bộ Siêu Tham Số Đã Chọn
 
