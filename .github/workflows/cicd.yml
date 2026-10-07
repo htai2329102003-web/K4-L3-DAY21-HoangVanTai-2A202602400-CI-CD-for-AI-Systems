@@ -171,4 +171,5 @@ jobs:
             EOF
             sudo systemctl restart income-api
             sleep 5
+            sudo journalctl -u income-api --no-pager -n 50
             curl -sf http://localhost:8080/healthz && echo "Health check passed." || exit 1
