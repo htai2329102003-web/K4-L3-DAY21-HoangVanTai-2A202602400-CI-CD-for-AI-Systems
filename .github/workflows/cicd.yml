@@ -163,7 +163,6 @@ jobs:
           username: ${{ secrets.SERVER_USER }}
           key: ${{ secrets.SERVER_SSH_KEY }}
           envs: AWS_ACCESS_KEY_ID,AWS_SECRET_ACCESS_KEY,AWS_REGION,ARTIFACT_BUCKET
-          script_stop: true
           script: |
             set -eu
 
